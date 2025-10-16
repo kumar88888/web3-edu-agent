@@ -2,7 +2,7 @@
 
 An AI-powered agent that takes a Web3 project name or technical concept, processes it using Google's Gemini API, and generates a comprehensive set of interactive learning materials to simplify complex topics.
 
-![Screenshot of the Web3 Technical Education AI Agent UI](https://i.imgur.com/example.png) 
+![Screenshot of the Web3 Technical Education AI Agent UI](https://ibb.co/wr20DmzY) 
 *(Note: This is a placeholder image representing the application's interface.)*
 
 ## ✨ Core Features
