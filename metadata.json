@@ -1,0 +1,5 @@
+{
+  "name": "Web3 Technical Education AI Agent",
+  "description": "An AI-powered agent that takes a Web3 project name, processes its technical concepts, and generates interactive learning materials like carousels, flashcards, and scenarios to simplify complex topics.",
+  "requestFramePermissions": []
+}
