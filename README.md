@@ -2,9 +2,6 @@
 
 An AI-powered agent that takes a Web3 project name or technical concept, processes it using Google's Gemini API, and generates a comprehensive set of interactive learning materials to simplify complex topics.
 
-https://ibb.co/wr20DmzY
-
-
 ## ✨ Core Features
 
 -   **AI-Powered Content Generation**: Enter any Web3 topic (e.g., "Solana," "Zero-Knowledge Proofs," "Uniswap v3") and receive a full educational module in seconds.
